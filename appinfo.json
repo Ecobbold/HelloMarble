@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Marbleous Productions ",
+    "enableMultiJS": true,
+    "longName": "Hello-Marble",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Hello-Marble",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "08dcf098-478f-4746-b18a-b9042655bd79",
+    "versionLabel": "0.01",
+    "watchapp": {
+        "watchface": false
+    }
+}
